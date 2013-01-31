@@ -1,3 +1,9 @@
 body {
     background-image: url('assets/omfgdogs.gif');
 }
+footer {
+    bottom: 0;
+    right: 0;
+    position: fixed;
+    color: purple;
+}
