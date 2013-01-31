@@ -2,8 +2,14 @@ body {
     background-image: url('assets/omfgdogs.gif');
 }
 footer {
+    font-size: 28px;
+    background-color: red;
     bottom: 0;
     right: 0;
     position: fixed;
-    color: purple;
+    color: green;
+}
+
+a {
+    color: 03FFB7;
 }
